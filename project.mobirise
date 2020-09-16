@@ -99,7 +99,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
