@@ -12,7 +12,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/android-chrome-192x192-128x128.png",
@@ -82,20 +82,20 @@
           "_params": {
             "showMeta": false
           },
-          "title": "Green walk 1 - Ikejiri Ohashi",
+          "title": "Green walk 1 - Ikejiri Ohashi&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-w",
           "_styles": {
             "H3": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
-          }
+          },
+          "_anchor": "header3-19"
         },
         {
           "_inherit": "gallery1",
