@@ -12,7 +12,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 33,
+    "uniqCompNum": 45,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/android-chrome-192x192-128x128.png",
@@ -82,7 +82,7 @@
           "_params": {
             "showMeta": false
           },
-          "title": "Green walk 1 - Ikejiri Ohashi to Umegaoka",
+          "title": "Green walk 1 - Ikejiri Ohashi",
           "meta": "By John Smith posted July 30, 2015",
           "alias": "purity/components",
           "_tags": [
@@ -92,46 +92,6 @@
           "_anchor": "header3-w",
           "_styles": {
             "H3": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/map-932x580.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-v"
-        },
-        {
-          "text": "This is one of my favorites! It is only a few minutes away from the busy Shibuya area. The walking trail has a lot of trees. There is also a stream along the walking trail.&nbsp;",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-s",
-          "_styles": {
-            "DIV": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
@@ -207,6 +167,213 @@
           ],
           "_name": "gallery2",
           "_anchor": "gallery2-o"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Green walk 2 - Komabano Park",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "header3-y"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-1-908x1210.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1-908x1210-800x1066.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-2-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-z"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Green walk 3 - Setagaya Kannon",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "header3-10"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-910-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-910-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-4-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-4-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-5-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-5-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-6-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-6-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-2-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-3-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-3-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-12"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Green walk 4 - Mishuku",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "header3-15"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-5-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-5-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-6-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-6-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-998-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-998-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-1-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-2-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-3-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-3-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-4-1512x2016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-4-1512x2016-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-14"
         },
         {
           "_params": {
